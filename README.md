@@ -98,7 +98,7 @@ These metrics allowed performance benchmarking across campaign categories and pl
 
 A presentation was prepared to communicate findings to non-technical stakeholders.
 
-📄 [Click here to view the presentation]()
+📄 [Click here to view the presentation](https://docs.google.com/presentation/d/1PRrTuGGbtnBfanSJQSetKWFspXdIpEfC/edit?usp=sharing&ouid=108266455663077936458&rtpof=true&sd=true)
 
 ---
 
